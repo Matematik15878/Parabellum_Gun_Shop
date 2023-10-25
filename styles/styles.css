@@ -64,14 +64,14 @@ body {
   flex-grow: 1;
   display: flex; 
   flex-direction: column;
-  width: 80vw;
+  width: 85vw;
   min-height: 80vh;
   z-index: 3;
 }
 
 .name3 {
   flex-grow: 0;
-  width: 80vw;
+  width: 85vw;
   min-height: 8vh;
   background-color: blue;
   left: 15vw; 
@@ -82,7 +82,7 @@ body {
   flex-grow: 1;
   display: flex; 
   flex-direction: row;
-  width: 80vw;
+  width: 85vw;
   min-height: 72vh;
   left: 20vw; 
   z-index: 3;
