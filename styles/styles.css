@@ -73,7 +73,7 @@ body {
   flex-grow: 0;
   width: 82vw;
   min-height: 8vh;
-  background-color: green;
+  background-color: blue;
   left: 15vw; 
   z-index: 3;
 }
@@ -118,7 +118,7 @@ body {
   flex-grow: 0;
   min-height: 8vh;
   width: 70vw;
-  background-color: green;
+  background-color: blue;
   z-index: 3;
 }
 
