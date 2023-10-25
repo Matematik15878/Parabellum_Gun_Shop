@@ -14,7 +14,7 @@ body {
     url('../fonts/lombardina_one_roman.svg#lombardina_one_roman') format('svg'); 
 }
 
-@media screen and (max-width: 6px) {
+@media screen and (max-width: 1200px) {
 
 .website_head { /* Блок шапки сайту */
   display: flex;
