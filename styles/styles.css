@@ -204,6 +204,8 @@ body {
 
 }
 
+@media screen and (min-width: 1200px) {
+
 .website_head { /* Блок шапки сайту */
   display: flex;
   flex-direction: column;
@@ -385,3 +387,6 @@ body {
   position: relative;
   background-color: white;
   z-index: 3;
+}
+
+}
