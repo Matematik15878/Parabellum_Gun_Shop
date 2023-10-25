@@ -55,7 +55,7 @@ body {
 
 .name1 {
   flex-grow: 1;
-  width: 18vw;
+  width: 15vw;
   background-color: red;
   z-index: 3;
 }
@@ -64,14 +64,14 @@ body {
   flex-grow: 1;
   display: flex; 
   flex-direction: column;
-  width: 82vw;
+  width: 80vw;
   min-height: 80vh;
   z-index: 3;
 }
 
 .name3 {
   flex-grow: 0;
-  width: 82vw;
+  width: 80vw;
   min-height: 8vh;
   background-color: blue;
   left: 15vw; 
@@ -82,7 +82,7 @@ body {
   flex-grow: 1;
   display: flex; 
   flex-direction: row;
-  width: 82vw;
+  width: 80vw;
   min-height: 72vh;
   left: 20vw; 
   z-index: 3;
@@ -92,7 +92,7 @@ body {
   flex-grow: 1;
   display: flex; 
   flex-direction: column;
-  width: 68vw;
+  width: 70vw;
   min-height: 72vh;
   left: 15vw; 
   z-index: 3;
@@ -101,7 +101,7 @@ body {
 .name6 {
   flex-grow: 1;
   min-height: 72vh;
-  width: 13vw;
+  width: 15vw;
   background-color: red;
   z-index: 3;
 }
@@ -109,7 +109,7 @@ body {
 .name7 {
   flex-grow: 1;
   min-height: 64vh;
-  width: 68vw;
+  width: 70vw;
   background-color: white;
   z-index: 3;
 }
