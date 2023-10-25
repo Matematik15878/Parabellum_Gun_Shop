@@ -56,18 +56,18 @@
 
 .info_p { 
   margin-left: 1vw;
-  font-size: 2vh; 
+  font-size: 1.5vh; 
 }
 
 .info_text_start { 
   margin-left: 1vw;
-  font-size: 3vh; 
+  font-size: 1.8vh; 
 }
 
 .info_text_ending { 
   margin-left: 1vw;
   margin-top: 4vw;
-  font-size: 3.2vh;
+  font-size: 2vh;
 }
 
 }
